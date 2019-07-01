@@ -1,0 +1,55 @@
+ {
+     box-sizing: border-box;
+}
+
+body {
+    color: #FFE39F;
+    max-width: 45rem;
+}
+
+.box {
+    background-color: #654321;
+    text-align: center;
+    
+}
+
+.masthead h1,h2{
+    font-size: 2rem;
+    font-family: "Arial","Helvetica", sans-serif;
+    color: #FFE39F;
+}
+
+.masthead p {
+    font-size: 1.4rem;
+    font-family:"sans-serif","serif";
+    color: #FFE39F;
+}
+
+
+
+.social-media{
+    text-align: center;
+    display: inline-block;
+    list-style-type: none;
+    font-size: 2.5rem;
+
+}
+
+.box input {
+    width: 50%;
+    height: 2rem;
+    margin: 3% ;
+    font-size: 1rem;
+    font-family: monospace;
+}
+
+button {
+    width: 50%;
+    height: 2rem;
+    font-family: "monospace","serif", sans-serif;
+    font-size: 1rem;
+    color: #26301B;
+    background-color: #5E62CC;
+}
+
+
